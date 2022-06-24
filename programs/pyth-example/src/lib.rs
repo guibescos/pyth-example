@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("6mg6PeANjaa931s5zieAmb7B3NAyU9RXin2id2VVc48D");
 
 #[program]
 pub mod pyth_example {

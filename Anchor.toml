@@ -4,7 +4,7 @@ seeds = false
 pyth_example = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
 
 [programs.devnet]
-pyth_example = "6mg6PeANjaa931s5zieAmb7B3NAyU9RXin2id2VVc48D"
+pyth_example = "CE8dkMzNfG9Tfhehw6wdLM7qoYeDZTWDs19FVX7VXvLZ"
 
 [registry]
 url = "https://anchor.projectserum.com"

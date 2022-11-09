@@ -19,4 +19,5 @@ default = []
 overflow-checks = true
 
 [dependencies]
-anchor-lang = "0.24.2"
+anchor-lang = "0.25.0"
+pyth-sdk-solana = "0.6.1"
